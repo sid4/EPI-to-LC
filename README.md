@@ -307,7 +307,7 @@ Mappings for:
 | 13.3 | [274. H-Index](https://leetcode.com/problems/h-index/) |
 | 13.4 | []() |
 | 13.5 | []() |
-| 13.6 | []() |
+| 13.6 | [57. Insert Interval](https://leetcode.com/problems/insert-interval) |
 | 13.7 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
 | 13.8 | []() |
 | 13.9 | []() |
